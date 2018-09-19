@@ -1,0 +1,10 @@
+publisher:
+  name: "Comune di Padova"
+  description: "Comune di Padova"
+  github_organization_url: github.com/comunedipadova
+  short_name: "Comune di Padova"
+  website: http://www.padovanet.it/
+  tags:
+    - documents
+    - public
+  logo: assets/images/logo.png

@@ -1,0 +1,12 @@
+projects:
+  - name: "Dati mobilità"
+    description: "Informazioni relative sui dati relativi alla mobilità e trasporti nel Comune di Padova"
+    documents:
+      - mobilita-data
+    short_name: mobilita-data
+    website: http://www.padovanet.it/
+    tags:
+      - digital
+      - transportation
+      - citizenship
+      - data
